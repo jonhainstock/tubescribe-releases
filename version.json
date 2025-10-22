@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/jonhainstock/tubescribe-releases/releases/download/v1.0.3/TubeScribe.dmg",
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/jonhainstock/tubescribe-releases/releases/download/v1.0.4/TubeScribe.dmg",
   "releaseDate": "2025-10-22",
-  "notes": "Bug fixes: Hash-based binary updates on reinstall, fixed app crash on fresh installs, improved initialization sequence, and added binary auto-update system"
+  "notes": "Add license activation to Help menu for easier access"
 }
